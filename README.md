@@ -35,3 +35,7 @@ This system will not respond to:
 ## Current status
 This is a documentation-first project.
 I am currently focusing on idea clarity and design thinking.
+## Project Documents
+- [Thinking Flow](docs/thinking-flow.md)
+- [Safety Guidelines](docs/safety.md)
+- [Future Scope](docs/future-scope.md)
